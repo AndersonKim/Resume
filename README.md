@@ -1,6 +1,6 @@
 # My Resume
 
-[Link Start !](http://github.com/AndersonKim)
+[Link Start !](https://andersonkim.github.io/Resume/index.html)
 
 ## Introduction
 
